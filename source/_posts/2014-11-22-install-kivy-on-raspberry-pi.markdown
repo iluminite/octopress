@@ -2,6 +2,7 @@
 layout: post
 title: "Install Kivy on Raspberry Pi"
 date: 2014-11-22 19:15:30 +0000
+published: true
 comments: false
 categories: 
   - How To

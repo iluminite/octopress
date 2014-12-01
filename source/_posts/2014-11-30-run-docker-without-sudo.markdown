@@ -2,7 +2,7 @@
 layout: post
 title: "Running Docker without sudo"
 date: 2014-11-30 12:15:00 +0000
-comments: true
+published: true
 comments: false
 categories:
   - How To
